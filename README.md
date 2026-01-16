@@ -1,5 +1,5 @@
 # Private-osint-tool-
-# Osintrax_pro made by rax
+# Osintrax_pro made by @TEAM RAX
 
 
 
