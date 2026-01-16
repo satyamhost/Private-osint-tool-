@@ -53,5 +53,5 @@ Agar chaho to main:
 🔥 Professional English version
 🔥 Short Telegram description
 🔥 Banner + ASCII style
-🔥 Auto-install Termux version
-# bhi bana deta hoon 👍Bas bolo kya chahiye 😎
+
+# 🔥 Auto-install Termux version bhi bana deta hoon 👍Bas bolo kya chahiye 😎
